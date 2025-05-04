@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aaroh, developer from India</p>
+<p align="left">I am Aaroh, developer from India</p>
 
 ###
 
@@ -63,9 +63,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/aa/aa/output/snake.svg" alt="Snake animation" />
-
-###
